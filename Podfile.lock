@@ -1,0 +1,46 @@
+PODS:
+  - GoogleMaps (6.1.0):
+    - GoogleMaps/Maps (= 6.1.0)
+  - GoogleMaps/Base (6.1.0)
+  - GoogleMaps/Maps (6.1.0):
+    - GoogleMaps/Base
+  - GooglePlaces (6.2.1)
+  - IQKeyboardManagerSwift (6.5.16)
+  - SDWebImage (5.18.7):
+    - SDWebImage/Core (= 5.18.7)
+  - SDWebImage/Core (5.18.7)
+  - SGCodeTextField (0.1.4)
+  - SideMenu (6.5.0)
+  - youtube-ios-player-helper (1.0.4)
+
+DEPENDENCIES:
+  - GoogleMaps (= 6.1.0)
+  - GooglePlaces (~> 6.2.1)
+  - IQKeyboardManagerSwift
+  - SDWebImage
+  - SGCodeTextField
+  - SideMenu
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SGCodeTextField
+    - SideMenu
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  GoogleMaps: cffc5d24ce920063aaeebe6ac4dbaaca1dd7f377
+  GooglePlaces: 94974aa119573d5acc2a35a699948dac838abd73
+  IQKeyboardManagerSwift: 12d89768845bb77b55cc092ecc2b1f9370f06b76
+  SDWebImage: f9258c58221ed854cfa0e2b80ee4033710b1c6d3
+  SGCodeTextField: 6b65291a52a092c24bd08cc32873e024223b2371
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  youtube-ios-player-helper: e9b97535e816db3152179d84d999bc1807ecd689
+
+PODFILE CHECKSUM: 0c5f9d0d4e83327e21c20494ecf817309cbe9a56
+
+COCOAPODS: 1.11.3
